@@ -6,6 +6,10 @@ mei, ming and jason
 
 kube-search
 
+# source code
+
+https://github.com/mingderwang/kube
+
 # Usage
 
 ```
