@@ -24,7 +24,7 @@ USAGE:
    kube [global options] command [command options] [arguments...]
    
 VERSION:
-   0.0.1
+   1.0.1
    
 COMMANDS:
    search, s	Search global kubernetes resource with keyword.
