@@ -8,7 +8,7 @@ kube-search
 
 # demo
 
-<iframe src="http://showterm.io/8b00b21fe9aaddde75d41" width="640" height="480"></iframe>
+http://showterm.io/8b00b21fe9aaddde75d41
 
 # source code
 
