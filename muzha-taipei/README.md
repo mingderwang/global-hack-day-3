@@ -6,6 +6,10 @@ mei, ming and jason
 
 kube-search
 
+# demo
+
+<iframe src="http://showterm.io/8b00b21fe9aaddde75d41" width="640" height="480"></iframe>
+
 # source code
 
 https://github.com/mingderwang/kube
